@@ -1,5 +1,7 @@
 
 🪔 Diwali Sales Analytics & Customer Insights Analysis
+
+
 📌 Project Overview
 This project focuses on analyzing Diwali sales data to understand customer purchasing behavior, demographic trends, product demand, and sales performance using data analytics techniques. The repository publicly includes a Jupyter Notebook file named DataAnalysis.ipynb and a dataset file named Diwali Sales Data.csv, indicating a notebook-based analysis workflow built around Diwali sales data. 
 
